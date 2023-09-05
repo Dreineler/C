@@ -1,6 +1,6 @@
 package ch.bbw.ab.cluedo;
 
- 
+
 
 public class Person {
 

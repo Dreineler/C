@@ -1,4 +1,4 @@
-package ch.bbw.ab.Cluedo;
+package ch.bbw.ab.cluedo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
